@@ -1,0 +1,2 @@
+Nombre: derek || Correo: asd@ || Username: electro || Rol: Asesor
+Nombre: dereasd || Correo: sdasda2asdasd || Username: lsese || Rol: Asesor

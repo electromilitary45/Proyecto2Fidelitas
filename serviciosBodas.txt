@@ -1,0 +1,7 @@
+Nombre del contacto: Derek sebastian leiva villalobos
+Número de contacto: 1919191919
+Correo de contacto: asdasd@asdlka;sld.com 
+Cantidad de adultos: 4
+Cantidad de niños: 9
+Total a pagar: 8840.0
+--------------

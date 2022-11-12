@@ -1,0 +1,3 @@
+Nombre: bryab || Correo: asd@brya.com || Username: gunkix || Rol: Organizador
+Nombre: Derek || Correo: asdasd@sadgmaos.om || Username: Electro || Rol: Organizador
+Nombre: Derek || Correo: asdasd@hioasdasd.com || Username: Electro || Rol: Organizador

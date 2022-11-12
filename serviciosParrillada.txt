@@ -1,0 +1,8 @@
+Nombre del contacto: Derek sebastian leiva villalobos
+Número de contacto: 12121212
+Correo de contacto: asdasd@gmail,com 
+Fecha del evento: 12/12/2002
+Dirección del evento: Cartago
+Cantidad de personas: 12
+Total a pagar: 43392.0
+--------------
